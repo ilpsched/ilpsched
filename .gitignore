@@ -1,0 +1,12 @@
+dist*
+cabal.project.local
+*.fls
+*.log
+*.nav
+*.1
+*.toc
+*.vrb
+*.snm
+*.tex
+*.fdb_latexmk
+*.aux
